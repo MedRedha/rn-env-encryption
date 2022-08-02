@@ -45,7 +45,7 @@
     "eslint-plugin-react": "^7.17.0",
     "jest": "^26.0.1",
     "jest-enzyme": "^7.1.2",
-    "react": "^16.13.0",
+    "react": "^17.0.2",
     "react-dom": "^16.13.0"
   },
   "dependencies": {
@@ -55,7 +55,7 @@
     "react-native-crypto-js": "^1.0.0"
   },
   "peerDependencies": {
-    "react": "^16.13.0",
+    "react": "^17.0.2",
     "react-dom": "^16.13.0"
   },
   "jest": {
